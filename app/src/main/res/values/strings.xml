@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Assognment 2. revamp</string>
+
+    <string-array name="Names">
+        <item>MALETSUNYANE FALLS</item>
+        <item>SEHLABATHEBE NATIONAL PARK</item>
+        <item>SANI-PASS</item>
+        <item>KOME-CAVES</item>
+        <item>THABA BOSIU</item>
+        <item>KATSE DAM</item>
+        <item>DINOSAUR FOOT PRINTS</item>
+    </string-array>
+    <string-array name="Info">
+        <item>Semonkong District</item>
+        <item>Qacha;s Nek District</item>
+        <item>Between Underberg, KwaZulu-Natal and Mokhotlong, Lesotho</item>
+        <item>Berea District</item>
+        <item>Maseru District</item>
+        <item>Thaba-Tseka District</item>
+        <item>Leribe Distict</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Maletsunyane is a very beautiful place found in the highlands of Lesotho. It is found in Mokhotlong District.</item>
+        <item>Sehlabathebe national Park is a very unique Cultural inheritance place, housing different species of animals and insects. It is found in Qacha;s Nek.</item>
+        <item>Sani-Pass is a long road found in the Drakenburg range. It is found BetweenBetween Underberg, KwaZulu-Natal and Mokhotlong, Lesotho.</item>
+        <item>Kome Caves are very unique caves which were used by San And Khoi-Khoi for shelter back in the day.  It is found in Berea District.</item>
+        <item>Thaba Bosiu is a very unique mountain found in MAseru District. It was  a place where the founder of Basotho Nation Lived.</item>
+        <item>Katse Dam is a very beautiful huge water body found in the highlands of Lesotho in Thaba-Tseka. This dam supplies the majority of Basotho nation. </item>
+        <item>Dinosour foot prints are one of the most unique places of interest any country could have. It has the most unique foot prints ever seen. This foot prints are found in Leribe District. </item>
+    </string-array>
+
+</resources>
